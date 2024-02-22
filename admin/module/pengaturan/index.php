@@ -11,7 +11,7 @@
 			<div class="row">
 				<div class="col-md 6">
 					<div class="form-group">
-						<label for="">Nama Toko</label>
+						<label for="">Kasir Nopal</label>
 						<input class="form-control" name="namatoko" value="<?php echo $toko['nama_toko'];?>"
 									placeholder="Nama Toko">
 					</div>
